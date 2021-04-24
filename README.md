@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working in projects
 - 🌱 I’m currently learning NodeJs and C++
-- 💬 Ask me about [pedrobraga693@gmail.com](mailto:pedrobraga693@gmail.com)
+- 📫 How to reach me: [pedrobraga693@gmail.com](mailto:pedrobraga693@gmail.com)
+- 💬 Ask me about **NodeJs, JavaScript, Typescript, NoSQL, SQL, Python**
 - ⚡ Fun fact: I ever forget the semicolon!🤣
 
 <img src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebraga&show_icons=true" alt="maykbrito"/> 
