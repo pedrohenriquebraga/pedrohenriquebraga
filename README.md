@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working in many projects.
-- 🌱 I’m currently learning NodeJs and C++
+- 🌱 I’m currently learning C
 - 💼 I'm available for new jobs
 - 📫 How to reach me: [pedrobraga693@gmail.com](mailto:pedrobraga693@gmail.com)
 - 💬 Ask me about **NodeJs, JavaScript, Typescript, NoSQL, SQL, Python**
