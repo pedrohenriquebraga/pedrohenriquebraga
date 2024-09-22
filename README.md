@@ -1,6 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working in many projects.
+- 🎓 I'm studying Computer Science in Federal University of Goiás
 - 🌱 I’m currently learning C
 - 💼 I'm available for new jobs
 - 📫 How to reach me: [pedrobraga693@gmail.com](mailto:pedrobraga693@gmail.com)
