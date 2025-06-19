@@ -8,6 +8,7 @@
 - 💬 Ask me about **NodeJs, JavaScript, Typescript, NoSQL, SQL, Python, C**
 - ⚡ Fun fact: I ever forget the semicolon!🤣
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebraga&show_icons=true" alt="pedrohenriquebraga"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebraga" />
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<div style="display: flex; flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebraga" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebraga&show_icons=true" alt="pedrohenriquebraga"/>
+</div>
