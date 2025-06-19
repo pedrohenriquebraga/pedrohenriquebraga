@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java and Android Development
 - 💼 I'm available for new jobs
 - 📫 How to reach me: [pedrobraga693@gmail.com](mailto:pedrobraga693@gmail.com)
-- 💬 Ask me about **NodeJs, JavaScript, Typescript, NoSQL, SQL, Python**
+- 💬 Ask me about **NodeJs, JavaScript, Typescript, NoSQL, SQL, Python, C**
 - ⚡ Fun fact: I ever forget the semicolon!🤣
 
 <img src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebraga&show_icons=true" alt="pedrohenriquebraga"/> 
